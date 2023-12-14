@@ -2,3 +2,4 @@ venv
 .ipynb_*
 vscode
 creditcard.csv
+*.h5
